@@ -19,10 +19,15 @@ Goals:
 ● Ensure fairness in traffic distribution, preventing excessive delays in specific areas.
 
 
-
 ## Key Considerations
 - Event-Driven Architecture: Emphasize the use of event-driven patterns to decouple agents and enable asynchronous communication. 
 - State Preservation: Ensure that agents can maintain their state across events and resume processing from the last point. 
 - Human-in-the-Loop: Design clear interfaces and workflows for human interaction and approval. 
 - System Integration: Demonstrate how the multi-agent system can integrate with existing process systems. 
-- Responsible AI: Consider ethical implications, fairness, and transparency in the design and implementation of the AI agents. 
+- Responsible AI: Consider ethical implications, fairness, and transparency in the design and implementation of the AI agents.
+
+High level archietecture:
+![Image](https://github.com/user-attachments/assets/f5950e30-776c-4601-ab7d-e83590128a93)
+
+Used SUMO to simulate the traffic:
+![Image](https://github.com/user-attachments/assets/8371cf5d-94f5-4ebc-b051-83adc326c48e)
