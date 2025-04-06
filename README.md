@@ -26,8 +26,8 @@ response times.
 - System Integration: Demonstrate how the multi-agent system can integrate with existing process systems. 
 - Responsible AI: Consider ethical implications, fairness, and transparency in the design and implementation of the AI agents.
 
-## High level archietecture
+## High Level Archietecture
 ![Image](https://github.com/user-attachments/assets/f5950e30-776c-4601-ab7d-e83590128a93)
 
-## Used SUMO to simulate the traffic
+## SUMO Traffic Simulator
 ![Image](https://github.com/user-attachments/assets/8371cf5d-94f5-4ebc-b051-83adc326c48e)
