@@ -4,12 +4,12 @@
 Urban traffic congestion leads to significant time loss, pollution, and fuel consumption. Static
 traffic signals and traditional rule-based systems fail to optimize traffic flow dynamically.
 
-## Challenge:
+## Challenge
 Develop a multi-agent system where AI-powered traffic lights, smart vehicles, and drones
 collaborate to manage real-time traffic, reducing congestion and improving emergency vehicle
 response times.
 
-## Goals:
+## Goals
 ● Enable AI agents to analyze live traffic data and adjust signals dynamically.
 
 ● Implement vehicle-to-infrastructure (V2I) communication for smarter routing.
@@ -26,8 +26,8 @@ response times.
 - System Integration: Demonstrate how the multi-agent system can integrate with existing process systems. 
 - Responsible AI: Consider ethical implications, fairness, and transparency in the design and implementation of the AI agents.
 
-## High level archietecture:
+## High level archietecture
 ![Image](https://github.com/user-attachments/assets/f5950e30-776c-4601-ab7d-e83590128a93)
 
-## Used SUMO to simulate the traffic:
+## Used SUMO to simulate the traffic
 ![Image](https://github.com/user-attachments/assets/8371cf5d-94f5-4ebc-b051-83adc326c48e)
