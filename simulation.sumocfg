@@ -1,0 +1,15 @@
+<configuration>
+    <input>
+        <net-file value="grid.net.xml"/>
+        <route-files value="routes.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+    <gui_only>
+        <gui-settings-file value="gui-settings.xml"/>
+        <start value="true"/>
+        <delay value="50"/>
+    </gui_only>
+</configuration>
