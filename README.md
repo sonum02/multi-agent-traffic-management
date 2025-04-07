@@ -31,3 +31,6 @@ response times.
 
 ## SUMO Traffic Simulator (https://sumo.dlr.de/docs/index.html)
 ![Image](https://github.com/user-attachments/assets/8371cf5d-94f5-4ebc-b051-83adc326c48e)
+
+## Demo: Multi-Agent System for Smart Traffic Management
+https://github.com/user-attachments/assets/3317a315-4710-4818-bb05-102331ee11a4
